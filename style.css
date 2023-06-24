@@ -1,0 +1,45 @@
+body {
+    background-image: url("5630974.jpg");
+    background-size: 1536px 1152px;
+    background-position: center;
+}
+
+header {
+    padding: 20px;
+    text-align: center;
+}
+
+section {
+    max-width: 800px;
+    margin: 0 auto;
+    
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+}
+
+h1 {
+    grid-template: auto;
+    color: #212121 ;
+}
+ p {
+    color: #000000 ;
+}
+
+footer {
+    background-color: transparent;
+    padding: 20px;
+    text-align: center;
+}
+
+#linkedin-logo {
+    width: 145px;
+    height: 46px;
+    margin: 0 auto;
+    padding: 10px;
+
+}
+#linkedin-logo a {
+    text-decoration: underline;
+    color: blue;
+}
